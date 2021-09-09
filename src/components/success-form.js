@@ -4,7 +4,7 @@ function SuccessForm(props) {
         <div className="form-card">
             <h2 className="fs-title text-center">Success !</h2>
             <div className="row justify-content-center">
-                <div className="col-3"> <img src="/success.png" className="fit-image" /> </div>
+                <div className="col-3"> <img src="/success.png" className="fit-image" alt="success.png"/> </div>
             </div>
             <div className="row justify-content-center">
                 <div className="col-7 text-center">
